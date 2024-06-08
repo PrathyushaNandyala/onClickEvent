@@ -1,0 +1,65 @@
+.btn1 {
+    color: white;
+    background-color: rgb(51, 51, 246);
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    padding: 0px;
+    row-gap: 30px;
+    margin: 30px;
+    
+  }
+
+  .btn2 {
+    color: white;
+    background-color: rgb(51, 51, 246);
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    padding: 0px;
+    row-gap: 30px;
+    margin: 30px;
+    
+  }
+  .btn3 {
+    color: white;
+    background-color:rgb(51, 51, 246);
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    padding: 0px;
+    row-gap: 30px;
+    margin: 30px;
+    
+    
+    
+  }
+
+  .container{
+    
+   background-image: url("https://c1.wallpaperflare.com/preview/105/785/174/sky-cloud-plane-background.jpg");
+    
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center;
+    height: 100vh;
+    width: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Elements{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .number{
+   font-size: 100px;
+    color: black;
+    font-weight:bold;
+  }
